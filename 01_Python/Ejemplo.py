@@ -1,4 +1,1 @@
-#Primera modificación para git
-#Modificación hecha desde la nube 
-#Segunda modificación para git desde local
-#Texto añadido desde la nueva rama
+#He borrado todos los comentarios desde la ramaAdrian2. 
